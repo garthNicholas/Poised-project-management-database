@@ -41,6 +41,8 @@ The project should also also be able to complete the following:
 Support:
 
 Name: Garth Nicholas Smith
+
 Email: Garthsmi07@gmail.com
+
 Mentor: Logan Meadows
     
