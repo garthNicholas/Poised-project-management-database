@@ -28,7 +28,7 @@ The project should also also be able to complete the following:
     
     - Confirm which of the projects on the database are past deadline, and those that have not yet passed the deadline
     
-    - Update information about existing projects on mySQL database after having confirmed the updates from the user
+    - Update information about existing projects on mySQL database after having confirmed the updated data with the user
          Eg: Update staff details 
                     i.e:  The architect may get a new mobile number
         
