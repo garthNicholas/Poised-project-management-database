@@ -1,5 +1,5 @@
 # Poised Project Management System (PoisedPMS)
-# Project Management system - linked to mySQl - created with a Java
+# Project Management system - linked to MySQl - created with a Java
 
 Purpose of Project management system:
 
@@ -9,26 +9,26 @@ Purpose of Project management system:
 Requirements:
 
     - Setup Java IDLE - IntelliJ
-    - Setup mySQL database 
+    - Setup MySQL database 
 
 Description of project:
 
     - Using a constructor - Create a class that will be used to create a project object - per project
     - Using a constructor - Create a class that will be used to create person objects for all staff involved - Eg: Customer, Architect, Stuctural Engineer and Project manager
-    - Read and write data to and from database using mySQL
+    - Read and write data to and from database using MySQL
 
 
 The project should also also be able to complete the following:
 
-    - Capture all information about a project and store this in the appropriate table in the PoisedPMS database in mySQL
+    - Capture all information about a project and store this in the appropriate table in the PoisedPMS database in MySQL
 
     - Locate and select any project in the database by entering either the project number or project name
 
-    - Specifically locate and print out all currenly Incomplete Project 
+    - Specifically locate and print out any currently Incomplete Projects
     
-    - Confirm which of the projects on the database are past deadline, and those that have not yet passed the deadline
+    - Confirm which of the projects on the database are past deadline
     
-    - Update information about existing projects on mySQL database after having confirmed the updated data with the user
+    - Update information about existing projects on MySQL database after having confirmed the updated data with the user
          Eg: Update staff details 
                     i.e:  The architect may get a new mobile number
         
